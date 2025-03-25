@@ -1,4 +1,3 @@
-
 # Omicron parameter file
 
 PARAMETER CLUSTERING       TIME
@@ -21,4 +20,3 @@ OUTPUT    NTRIGGERMAX      10000000.0
 DATA      SAMPLEFREQUENCY  1024
 DATA      FFL              /home/jerry/GW/glitch-classification/Omicron/frames.lcf
 DATA      CHANNELS         EX:GAUSSIAN_EXAMPLE
-    
