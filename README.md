@@ -7,4 +7,5 @@ To install the environment, please follow the instructions:
 1. ```git clone https://github.com/agoodmanjerry/glitch-classification.git```
 2. ```cd glitch-classification```
 3. ```mamba env create -y -f environment.yaml```
+
 Then load the environment and run the codes in the jupyter notebook.
