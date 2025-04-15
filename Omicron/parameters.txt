@@ -11,12 +11,12 @@ PARAMETER SNRTHRESHOLD     5.0
 PARAMETER PSDLENGTH        124
 PARAMETER TIMING           64 4
 
-OUTPUT    DIRECTORY        /home/jerry/glitch-classification/Omicron/triggers
+OUTPUT    DIRECTORY        /home/jerry/GW/glitch-classification/Omicron/triggers
 OUTPUT    PRODUCTS         triggers
 OUTPUT    VERBOSITY        1
 OUTPUT    FORMAT           hdf5
 OUTPUT    NTRIGGERMAX      10000000.0
 
 DATA      SAMPLEFREQUENCY  1024
-DATA      FFL              /home/jerry/glitch-classification/Omicron/frames.lcf
+DATA      FFL              /home/jerry/GW/glitch-classification/Omicron/frames.lcf
 DATA      CHANNELS         L1:GWOSC-4KHZ_R1_STRAIN
